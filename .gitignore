@@ -1,7 +1,10 @@
 .idea/
 
-data/
+data/*
+!data/.gitkeep
 
 research/
 samples/
+output/
 
+*.tsv
